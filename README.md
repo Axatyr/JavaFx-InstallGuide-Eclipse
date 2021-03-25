@@ -1,8 +1,8 @@
 How to install JavaFx on Eclipse
 
-1)Download the JavaFx Library:  https://gluonhq.com/products/javafx/
+1)Download the JavaFx Library:  Select by your distro and pick the version that you prefer
 
-    Select by your distro and pick the version that you prefer
+    https://gluonhq.com/products/javafx/
     
 2)Extract this file wherever you want (the folder must not be deleted)
 
